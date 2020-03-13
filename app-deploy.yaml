@@ -1,8 +1,0 @@
-apiVersion: appsody.dev/v1beta1
-kind: AppsodyApplication
-metadata:
-  name: nodejs-express-0-4-0
-spec:
-  applicationImage: 
-  stack: nodejs-express
-  expose: true
